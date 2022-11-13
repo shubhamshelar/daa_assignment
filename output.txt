@@ -1,0 +1,6 @@
+Negative Cycle Present
+a cost: 0
+b cost: -1
+c cost: 2
+d cost: -2
+e cost: 1
